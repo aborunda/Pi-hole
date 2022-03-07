@@ -1,2 +1,2 @@
 # Pi-hole
-Pi-hole is a Linux based network level ad &amp; internet tracker blocking application.
+Pi-hole is a recursive Linux based network level stands in between the dns provider and the device blocking tracker applications. Offering protection from servers by adding the address of the server into a blacklist. If the Pi-Hole has the address in its black list, it will stop the request with an unspecified address. Informing the server that the device does not exist also referenced a DNS sinkhole. 
